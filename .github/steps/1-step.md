@@ -76,7 +76,7 @@ To start practicing Git, let's first open a pre-configured development environme
 
 1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
 
-   - ✅ Your copy: `/{{full_repo_name}}`
+   - ✅ Your copy: `/imonleonedam1/skills-introduction-to-git`
    - ❌ Original: `/skills/introduction-to-git`
 
 1. Wait a moment for Visual Studio Code to load in your browser.
